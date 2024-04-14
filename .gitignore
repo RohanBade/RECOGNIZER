@@ -1,0 +1,7 @@
+__pycache__/
+images/
+data.csv
+game/
+.DS_Store
+assets/.DS_Store
+mnist_train.csv
