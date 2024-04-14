@@ -4,7 +4,11 @@ This Python project aims to predict numbers drawn on a canvas using a Neural Net
 
 ## Video Demo
 
-https://github.com/RohanBade/RECOGNIZER/assets/80945438/77bffa96-75cb-4dd2-8929-0d26feed5b81
+
+
+https://github.com/RohanBade/RECOGNIZER/assets/80945438/8f6b1487-9f19-4829-a1d5-9b297bdf8765
+
+
 
 
 ## Installation
